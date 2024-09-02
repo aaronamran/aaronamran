@@ -30,21 +30,16 @@
 [![ Code: PHP     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=PHP&logo=php)]()
 [![ Code: C++     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=C++&logo=C++)]()
 
-
 <br><p></p>
-
 `[BurpSuite]` `[Metasploit]` `[Nmap]` `[Mimikatz]` `[Wireshark]`
-
 <br>
 
-### See Me On
+## See Me On
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
 [![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
 [![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
 
-<br></br>
-### Contact Me On
+
+## Contact Me On
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
-
-
