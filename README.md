@@ -39,7 +39,7 @@
 [![ Code: C++     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=C++&logo=C++)]()
 [![ Code: Lua     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Lua&logo=Lua)]()
 <br><p></p>
-`[BurpSuite]` `[Metasploit]` `[Nmap]` `[Mimikatz]` `[Wireshark]`
+`[Nmap]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]`
 <br>
 
 ## Credentials
