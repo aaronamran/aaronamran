@@ -1,5 +1,5 @@
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; position: relative; size:75%; z-index: 10;">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
 </a>
 
 ## H3ll0
@@ -16,11 +16,14 @@
 [![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
 [![ Ethical Hacking   ](https://img.shields.io/badge/Ethical%20Hacking-informational?style=for-the-badge&color=bebebe)]()
 [![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
-[![ Computer Forensics ](https://img.shields.io/badge/Computer%20Forensics-informational?style=for-the-badge&color=bebebe)]()
+[![ Digital Forensics ](https://img.shields.io/badge/Digital%20Forensics-informational?style=for-the-badge&color=bebebe)]()
 [![ Threat Intelligence   ](https://img.shields.io/badge/Threat%20Intelligence-informational?style=for-the-badge&color=bebebe)]()
 <br>
 [![ Artificial Intelligence   ](https://img.shields.io/badge/Artificial%20Intelligence-informational?style=for-the-badge&color=424242)]()
+<br>
 [![ Web Development    ](https://img.shields.io/badge/Web%20Development-informational?style=for-the-badge&color=424242)]()
+[![ Backend Development   ](https://img.shields.io/badge/Backend%20Development-informational?style=for-the-badge&color=bebebe)]()
+<br>
 [![ Mathematics        ](https://img.shields.io/badge/Mathematics-informational?style=for-the-badge&color=424242)]()
 
 
