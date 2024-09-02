@@ -14,8 +14,10 @@
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
 [![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
+[![ Ethical Hacking   ](https://img.shields.io/badge/Ethical%20Hacking-informational?style=for-the-badge&color=bebebe)]()
 [![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
 [![ Computer Forensics ](https://img.shields.io/badge/Computer%20Forensics-informational?style=for-the-badge&color=bebebe)]()
+[![ Threat Intelligence   ](https://img.shields.io/badge/Threat%20Intelligence-informational?style=for-the-badge&color=bebebe)]()
 <br>
 [![ Artificial Intelligence   ](https://img.shields.io/badge/Artificial%20Intelligence-informational?style=for-the-badge&color=424242)]()
 [![ Web Development    ](https://img.shields.io/badge/Web%20Development-informational?style=for-the-badge&color=424242)]()
@@ -26,7 +28,7 @@
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
 [![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
 [![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
-[![ Code: PowerShell     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=PowerShell&logo=PS)]()
+[![ Code: PowerShell     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=PowerShell&logo=powershell)]()
 [![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
 [![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
 [![ Code: Java           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Java&logo=java)]()
