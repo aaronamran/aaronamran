@@ -1,5 +1,5 @@
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; position: relative; z-index: 10;">
 </a>
 
 ## H3ll0
