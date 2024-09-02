@@ -5,7 +5,7 @@ Hi there 👋! I am Aaron, an aspiring Penetration Tester / Ethical Hacker based
 <a href="https://tryhackme.com/p/aaronamranba"><img align="left" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Visit my TryHackMe profile" /></a>
 <a href="https://www.coursera.org/learner/aaronamran"><img align="left" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Visit my Coursera profile" /></a>
 
-< /br>
+< /br>< /br>
 <a href="https://www.linkedin.com/in/aaronamran/"><img align="left" src="https://img.shields.io/badge/Aaron%20Amran-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
 <a href="https://github.com/aaronamran"><img align="left" src="https://img.shields.io/github/followers/aaronamran?label=Follow%20aaronamran" alt="Follow me on GitHub"/></a><br /><br />
 
