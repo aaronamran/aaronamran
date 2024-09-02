@@ -13,7 +13,7 @@
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
-[![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
+[![ Penetration Testing   ](https://img.shields.io/badge/Penetration%20Testing-informational?style=for-the-badge&color=bebebe)]()
 [![ Ethical Hacking   ](https://img.shields.io/badge/Ethical%20Hacking-informational?style=for-the-badge&color=bebebe)]()
 [![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
 [![ Digital Forensics ](https://img.shields.io/badge/Digital%20Forensics-informational?style=for-the-badge&color=bebebe)]()
