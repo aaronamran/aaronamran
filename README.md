@@ -9,6 +9,7 @@
 
 - ⚙️ I actively learn Penetration Testing and Ethical Hacking
 - ⚔️ I solve labs and listen to Darknet Diaries
+- 💻 I have a background in programming
 
 
 ## Interests
