@@ -1,13 +1,24 @@
-[![AARONAMRAN](images/bnwimage.gif)](https://github.com/aaronamran)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/aaronamran">
+        <img src="images/bnwimage.gif" alt="AARONAMRAN" width="150" style="float: left; margin-right: 20px;">
+      </a>
+    </td>
+    <td>
+      ## Aaron Amran (@aaronamran)
 
-## Aaron Amran (@aaronamran)
+      # Hi There! 👋
 
-# Hi There! 👋
+      [![Pronouns](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
+      [![Languages](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
 
-[![ Pronouns         ](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
-[![ Languages        ](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
-- ⚙️ I am actively learning Penetration Testing and Ethical Hacking
-- ⚔️ I solve labs and listen to Darknet Diaries
+      - ⚙️ I am actively learning Penetration Testing and Ethical Hacking
+      - ⚔️ I solve labs and listen to Darknet Diaries
+    </td>
+  </tr>
+</table>
+
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
