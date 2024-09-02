@@ -1,7 +1,3 @@
-<a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" width="150" align="left" style="margin-right: 20px;">
-</a>
-
 ## Aaron Amran (@aaronamran)
 
 # Hi There! 👋
@@ -12,6 +8,9 @@
 - ⚙️ I am actively learning Penetration Testing and Ethical Hacking
 - ⚔️ I solve labs and listen to Darknet Diaries
 
+<a href="https://github.com/aaronamran">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 20px;">
+</a>
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
