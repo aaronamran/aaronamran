@@ -1,18 +1,13 @@
+[![AARONAMRAN](images/bnwimage.gif)](https://github.com/aaronamran)
+
 ## Aaron Amran (@aaronamran)
 
-# Hello! 👋
-<img align="right" alt="🐼" width="28%" src="images/🐼.jpg" />
+# Hi There! 👋
 
 [![ Pronouns         ](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
 [![ Languages        ](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
-- ⚙️ I am actively learning Penetration Testing
-- ⚔️ I solve labs
-
-<div align=left>
-	<a href="https://drive.google.com/file/d/11koWi7U4apvZTPGWksTcJWcjainh_dvg/view?usp=sharing"><img src="https://img.shields.io/badge/CV%20[EN]-informational?style=for-the-badge&color=808080"/></a>&nbsp;
-	<a href="https://drive.google.com/file/d/1xCvhCmYjtIoZbCNVd7YMR3AmlorW8VQG/view?usp=sharing"><img src="https://img.shields.io/badge/CV%20[RU]-informational?style=for-the-badge&color=808080"/></a>
-</div>
-
+- ⚙️ I am actively learning Penetration Testing and Ethical Hacking
+- ⚔️ I solve labs and listen to Darknet Diaries
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
@@ -55,29 +50,14 @@
 	</a>&nbsp;
 </div>
 
-### I Spend My Time On...
-<a href="https://tryhackme.com/p/aaronamranba"><img align="left" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Visit my TryHackMe profile" /></a>
-<a href="https://www.coursera.org/learner/aaronamran"><img align="left" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Visit my Coursera profile" /></a>
+### See Me On
+[![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
+[![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
+[![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=GitHub&logo=GitHub)](https://www.linkedin.com/in/aaronamran/)
 
 <br></br>
-### Follow Me On...
-<a href="https://www.linkedin.com/in/aaronamran/"><img align="left" src="https://img.shields.io/badge/Aaron%20Amran-blue?logo=LinkedIn" alt="Follow me on LinkedIn" /></a>
-<a href="https://github.com/aaronamran"><img align="left" src="https://img.shields.io/github/followers/aaronamran?label=Follow%20aaronamran" alt="Follow me on GitHub"/></a><br /><br />
+### Contact Me On
+[![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
+[![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
 
 
-
-
-<!--
-**aaronamran/aaronamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
