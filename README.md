@@ -42,6 +42,10 @@
 `[BurpSuite]` `[Metasploit]` `[Nmap]` `[Mimikatz]` `[Wireshark]`
 <br>
 
+## Credentials
+[![ Cybersecurity     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Google&logo=Google)](https://coursera.org/share/16a407c9956783c45f3782ce23bbf06d)
+
+
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
 [![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
