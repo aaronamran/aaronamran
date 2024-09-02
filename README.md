@@ -10,7 +10,7 @@
 - ⚙️ I actively learn Penetration Testing and Ethical Hacking
 - ⚔️ I solve labs and listen to Darknet Diaries
 
-<br><p></p>
+
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
 [![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
@@ -20,7 +20,7 @@
 [![ Artificial Intelligence   ](https://img.shields.io/badge/Artificial%20Intelligence-informational?style=for-the-badge&color=424242)]()
 [![ Web Development    ](https://img.shields.io/badge/Web%20Development-informational?style=for-the-badge&color=424242)]()
 [![ Mathematics        ](https://img.shields.io/badge/Mathematics-informational?style=for-the-badge&color=424242)]()
-<br>
+
 
 ## Technologies
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
