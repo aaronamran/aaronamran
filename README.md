@@ -37,27 +37,14 @@
 
 <br>
 
-
-<div align=center>
-	<a href="https://tryhackme.com/p/aaronamranba">
-		<img width=36 height=36 alt="TryHackMe" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/tryhackme.svg"/>
-  </a>&nbsp;
-  <a href="https://www.coursera.org/learner/aaronamran">
-   <img width=36 height=36 alt="Coursera" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/coursera.svg"/>
-  </a>&nbsp;
-	<a href="mailto:aaronamranba@gmail.com">
-		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
-	</a>&nbsp;
-</div>
-
 ### See Me On
-[![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
-[![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
-[![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=GitHub&logo=GitHub)](https://www.linkedin.com/in/aaronamran/)
+[![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
+[![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
+[![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
 
 <br></br>
 ### Contact Me On
-[![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
-[![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
+[![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
+[![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
 
 
