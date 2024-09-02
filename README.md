@@ -2,7 +2,7 @@
   <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 20px;">
 </a>
 
-## H3ll0 👋
+<h2 style="border: none; margin-bottom: 0;">H3ll0</h2>
 
 [![Pronouns](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
 [![Languages](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
@@ -10,7 +10,7 @@
 - ⚙️ I actively learn Penetration Testing and Ethical Hacking
 - ⚔️ I solve labs and listen to Darknet Diaries
 
-## Interests
+<h2 style="border: none; margin-bottom: 0;">Interests</h2>
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
 [![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
 [![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
@@ -21,7 +21,7 @@
 [![ Mathematics        ](https://img.shields.io/badge/Mathematics-informational?style=for-the-badge&color=424242)]()
 
 
-## Technologies
+<h2 style="border: none; margin-bottom: 0;">Technologies</h2>
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
 [![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
 [![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
@@ -35,12 +35,11 @@
 `[BurpSuite]` `[Metasploit]` `[Nmap]` `[Mimikatz]` `[Wireshark]`
 <br>
 
-## See Me On
+<h2 style="border: none; margin-bottom: 0;">Find Me</h2>
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
 [![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
 [![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
 
-
-## Contact Me On
+<h2 style="border: none; margin-bottom: 0;">Contact Me</h2>
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
