@@ -10,8 +10,14 @@
 - ⚙️ I actively learn Penetration Testing and Ethical Hacking
 - ⚔️ I solve labs and listen to Darknet Diaries
 - 💻 I have a background in programming
-- 📈 My journey until today as a file directory:
-      `B. Eng in Electrical and Information Systems`/`M. Eng in Energy Efficiency and Technical Systems`/`JavaScript`/`Freelance Software Engineer`
+
+## My Journey
+- 📈 Relevant years represented as a file directory:
+- `2024`/`Mossé Cybersecurity Institute`/`Remote Cybersecurity Intern`/
+- `2024`/`ICT Technician`/`Troubleshooting Computers and Printers`/`Networking Skills`
+- `2024`/`Freelance Software Engineer`/`Web and mobile development`/`HTML, CSS, JavaScript, PHP`
+- `2021-2023`/`M. Eng in Energy Efficiency and Technical Systems`/`Java`/`JavaScript`
+- `2017-2021`/`B. Eng in Electrical and Information Systems`/`C++`
 
 
 ## Interests
