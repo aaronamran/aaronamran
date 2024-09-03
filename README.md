@@ -46,7 +46,7 @@
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/94UHH3X6YL6E"><img src="/credentials/ibm-itsupport.png" alt="IBM IT Support" width="100" height="100" /></a>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/HM53EFGYZJWT"><img src="/credentials/ibmisc2-cybersecurityspecialist.png" alt="IBM and ISC2 Cybersecurity Specialist" width="100" height="100" /></a>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/LLQAC264PMTT"><img src="/credentials/google-itsupport.png" alt="Google IT Support" width="100" height="100" /></a>
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/BINXG1X7OF8W"><img src="/credentials/google-cybersecurity.png" alt="Google Cybersecurity" width="100" height="100" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/BINXG1X7OF8W"><img src="/credentials/google-cybersecurity.png" alt="Google Cybersecurity" width="150" height="150" /></a>
 
 
 ## Find Me
