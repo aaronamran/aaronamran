@@ -12,11 +12,11 @@
 - 💻 I have a background in programming
 
 ## Timeline
-- 📈 Relevant years represented as a file directory:
+- 📈 Relevant years represented as file directories:
   - `Sept 2024 - Present`/`Remote Cybersecurity Intern @ Mossé Cybersecurity Institute`
   - `Jun 2024 - Present`/`Coding School Tutor`/`Lua, Python`
   - `May 2024 - Present`/`ICT Technician`/`Troubleshooting Computers and Printers`/`Networking Skills`
-  - `Mar 2024 - Present`/`Freelance Software Engineer`/`Web and mobile development`/`HTML, CSS, JavaScript, PHP`
+  - `Mar 2024 - Present`/`Freelance Software Engineer`/`Web & mobile development`/`HTML, CSS, JavaScript, PHP`
   - `May 2021 - Nov 2023`/`M. Eng in Energy Efficiency and Technical Systems`/`Java`/`JavaScript`
   - `Oct 2017 - Apr 2021`/`B. Eng in Electrical and Information Systems`/`C++`
 
