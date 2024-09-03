@@ -43,14 +43,15 @@
 <br>
 
 ## Credentials
-<a href="https://coursera.org/share/16a407c9956783c45f3782ce23bbf06d"><img src="/images/credentials/googlecybersecurity.png" alt="Google Cybersecurity" width="100" height="100" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/94UHH3X6YL6E"><img src="/credentials/ibm-itsupport.png" alt="IBM IT Support" width="100" height="100" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/HM53EFGYZJWT"><img src="/credentials/ibmisc2-cybersecurityspecialist.png" alt="IBM and ISC2 Cybersecurity Specialist" width="100" height="100" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/LLQAC264PMTT"><img src="/credentials/google-itsupport.png" alt="Google IT Support" width="100" height="100" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/BINXG1X7OF8W"><img src="/credentials/google-cybersecurity.png" alt="Google Cybersecurity" width="100" height="100" /></a>
 
 
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
 [![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
 [![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
-
-## Contact Me
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
