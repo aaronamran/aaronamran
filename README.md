@@ -7,9 +7,10 @@
 [![Pronouns](https://img.shields.io/badge/[%20He%20/%20Him%20]-informational?style=flat-square&color=eeeeee)]()
 [![Languages](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
 
-- ⚙️ I actively learn Penetration Testing and Ethical Hacking
-- ⚔️ I solve labs and listen to Darknet Diaries
-- 💻 I have a background in programming
+- ⚙️ Actively learning Penetration Testing and Ethical Hacking
+- 🌐 Global Top 7% in TryHackMe
+- ⚔️ Regularly listens to Darknet Diaries
+- 💻 Background in programming
 
 ## Timeline
 - 📈 Relevant years represented as file directories:
