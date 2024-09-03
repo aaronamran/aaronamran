@@ -47,7 +47,6 @@ Timeline/
             └── C++, Arduino
 ```
 
-
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
 [![ Penetration Testing   ](https://img.shields.io/badge/Penetration%20Testing-informational?style=for-the-badge&color=bebebe)]()
@@ -62,7 +61,6 @@ Timeline/
 [![ Backend Development   ](https://img.shields.io/badge/Backend%20Development-informational?style=for-the-badge&color=bebebe)]()
 <br>
 [![ Mathematics        ](https://img.shields.io/badge/Mathematics-informational?style=for-the-badge&color=424242)]()
-
 
 ## Technologies
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
