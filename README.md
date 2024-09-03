@@ -43,7 +43,7 @@
 <br>
 
 ## Credentials
-[![ Cybersecurity     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Google%20Cybersecurity&logo=Google)](https://coursera.org/share/16a407c9956783c45f3782ce23bbf06d)
+<a href="https://coursera.org/share/16a407c9956783c45f3782ce23bbf06d"><img src="/images/credentials/googlecybersecurity.png" alt="Google Cybersecurity" width="100" height="100" /></a>
 
 
 ## Find Me
