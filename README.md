@@ -22,7 +22,7 @@
   - `Aug 2019 - Nov 2019`/`CEM Tuning`/`Internship`/`Soldering, Car ECU Cloning and Tuning`
   - `Oct 2017 - Apr 2021`/`Technische Hochschule Brandenburg`/`B. Eng in Electrical and Information Systems`/`C++`
 
-
+```
 Timeline/
 ├── Sept 2024 - Present/
 │   └── Mossé Cybersecurity Institute/
@@ -53,7 +53,7 @@ Timeline/
     └── Technische Hochschule Brandenburg/
         └── B. Eng in Electrical and Information Systems/
             └── C++, Arduino
-
+```
 
 
 ## Interests
