@@ -11,13 +11,14 @@
 - ⚔️ I solve labs and listen to Darknet Diaries
 - 💻 I have a background in programming
 
-## My Journey
+## Timeline
 - 📈 Relevant years represented as a file directory:
-  - `2024`/`Mossé Cybersecurity Institute`/`Remote Cybersecurity Intern`/
-  - `2024`/`ICT Technician`/`Troubleshooting Computers and Printers`/`Networking Skills`
-  - `2024`/`Freelance Software Engineer`/`Web and mobile development`/`HTML, CSS, JavaScript, PHP`
-  - `2021-2023`/`M. Eng in Energy Efficiency and Technical Systems`/`Java`/`JavaScript`
-  - `2017-2021`/`B. Eng in Electrical and Information Systems`/`C++`
+  - `Sept 2024 - Present`/`Remote Cybersecurity Intern @ Mossé Cybersecurity Institute`
+  - `Jun 2024 - Present`/`Coding School Tutor`/`Lua, Python`
+  - `May 2024 - Present`/`ICT Technician`/`Troubleshooting Computers and Printers`/`Networking Skills`
+  - `Mar 2024 - Present`/`Freelance Software Engineer`/`Web and mobile development`/`HTML, CSS, JavaScript, PHP`
+  - `May 2021 - Nov 2023`/`M. Eng in Energy Efficiency and Technical Systems`/`Java`/`JavaScript`
+  - `Oct 2017 - Apr 2021`/`B. Eng in Electrical and Information Systems`/`C++`
 
 
 ## Interests
