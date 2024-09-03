@@ -13,13 +13,47 @@
 - 💻 Background in programming
 
 ## Timeline
-- 📈 Relevant years represented as file directories:
+- 📈 Relevant experiences represented as file directories:
   - `Sept 2024 - Present`/`Mossé Cybersecurity Institute`/`Remote Cybersecurity Intern`
-  - `Jun 2024 - Present`/`Coding School`/`Tutor`/`Lua, Python`
-  - `May 2024 - Present`/`Ori Pasti Ori`/`ICT Technician`/`Troubleshooting Computers and Printers`/`Networking Skills`
+  - `Jun 2024 - Present`/`Coding School`/`Programming Tutor`/`Lua, Python`
+  - `May 2024 - Present`/`Ori Pasti Ori`/`ICT Technician`/`Troubleshooting Computers, Printers and Networks`/`Troubleshooting and Hardware Skills`
   - `Mar 2024 - Present`/`Startup`/`Freelance Software Engineer`/`Web & mobile development`/`HTML, CSS, JavaScript, PHP`
-  - `May 2021 - Nov 2023`/`Technische Hochschule Brandenburg`/`M. Eng in Energy Efficiency and Technical Systems`/`Java`/`JavaScript`
+  - `May 2021 - Nov 2023`/`Technische Hochschule Brandenburg`/`M. Eng in Energy Efficiency and Technical Systems`/`Java, JavaScript`
+  - `Aug 2019 - Nov 2019`/`CEM Tuning`/`Internship`/`Soldering, Car ECU Cloning and Tuning`
   - `Oct 2017 - Apr 2021`/`Technische Hochschule Brandenburg`/`B. Eng in Electrical and Information Systems`/`C++`
+
+
+Timeline/
+├── Sept 2024 - Present/
+│   └── Mossé Cybersecurity Institute/
+│       └── Remote Cybersecurity Intern
+├── Jun 2024 - Present/
+│   └── Coding School/
+│       └── Programming Tutor/
+│           └── Lua, Python
+├── May 2024 - Present/
+│   └── Ori Pasti Ori/
+│       └── ICT Technician/
+│           └── Troubleshooting Computers, Printers and Networks/
+│               └── Troubleshooting and Hardware Skills
+├── Mar 2024 - Present/
+│   └── Startup/
+│       └── Freelance Software Engineer/
+│           └── Web & mobile development/
+│               └── HTML, CSS, JavaScript, PHP
+├── May 2021 - Nov 2023/
+│   └── Technische Hochschule Brandenburg/
+│       └── M. Eng in Energy Efficiency and Technical Systems/
+│           └── Java, JavaScript
+├── Aug 2019 - Nov 2019/
+│   └── CEM Tuning/
+│       └── Internship/
+│           └── Soldering, Car ECU Cloning and Tuning
+└── Oct 2017 - Apr 2021/
+    └── Technische Hochschule Brandenburg/
+        └── B. Eng in Electrical and Information Systems/
+            └── C++, Arduino
+
 
 
 ## Interests
