@@ -8,7 +8,7 @@
 [![Languages](https://img.shields.io/badge/[%20EN%20|%20MY%20|%20DE%20]-informational?style=flat-square&color=eeeeee)]()
 
 - ⚙️ Actively learning Penetration Testing and Ethical Hacking
-- 🌐 Top 7% worldwide in TryHackMe
+- 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in programming
 
