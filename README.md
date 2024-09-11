@@ -1,10 +1,10 @@
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10, size: 90%;">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
 </a>
 
-## Welcome!
+## Hi, Aaron here!
 
-- ⚙️ Actively learning Penetration Testing and Ethical Hacking
+- ⚙️ Focusing on Penetration Testing and Ethical Hacking
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in programming
