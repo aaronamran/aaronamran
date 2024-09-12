@@ -10,21 +10,6 @@
 - 💻 Background in programming
 - 💬 3 Languages: English, Malay, German
 
-## Interests
-[![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
-[![ Penetration Testing   ](https://img.shields.io/badge/Penetration%20Testing-informational?style=for-the-badge&color=bebebe)]()
-[![ Ethical Hacking   ](https://img.shields.io/badge/Ethical%20Hacking-informational?style=for-the-badge&color=bebebe)]()
-[![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
-[![ Digital Forensics ](https://img.shields.io/badge/Digital%20Forensics-informational?style=for-the-badge&color=bebebe)]()
-[![ Threat Intelligence   ](https://img.shields.io/badge/Threat%20Intelligence-informational?style=for-the-badge&color=bebebe)]()
-<br>
-[![ Artificial Intelligence   ](https://img.shields.io/badge/Artificial%20Intelligence-informational?style=for-the-badge&color=424242)]()
-<br>
-[![ Web Development    ](https://img.shields.io/badge/Web%20Development-informational?style=for-the-badge&color=424242)]()
-[![ Backend Development   ](https://img.shields.io/badge/Backend%20Development-informational?style=for-the-badge&color=bebebe)]()
-<br>
-[![ Mathematics        ](https://img.shields.io/badge/Mathematics-informational?style=for-the-badge&color=424242)]()
-
 ## Technologies
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
 [![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
