@@ -43,6 +43,10 @@
 ## Credentials
 (Arranged from latest to earliest) <br/>
 - [Microsoft IT Support Specialist](https://coursera.org/verify/professional-cert/35Q1E110BC6U)  | Microsoft on Coursera, Sept 2024
+- [Google Cybersecurity](https://coursera.org/verify/professional-cert/BINXG1X7OF8W) | Google on Cousera, Aug 2024
+- [Google IT Support](https://coursera.org/verify/professional-cert/LLQAC264PMTT) | Google on Coursera, July 2024
+- [IBM and ISC2 Cybersecurity Specialist](https://coursera.org/verify/professional-cert/HM53EFGYZJWT) | IBM and ISC2 on Coursera, June 2024
+- [IBM IT Support](https://coursera.org/verify/professional-cert/94UHH3X6YL6E) |IBM on Coursera, Apr 2024
 
 
 ## Find Me
