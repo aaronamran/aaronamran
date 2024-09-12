@@ -41,8 +41,8 @@
 <br>
 
 ## Credentials
-(Arranged from latest to earliest)
-[Microsoft IT Support Specialist | Microsoft on Coursera, Sept 2024](https://coursera.org/verify/professional-cert/35Q1E110BC6U)
+(Arranged from latest to earliest) <br/>
+- [Microsoft IT Support Specialist](https://coursera.org/verify/professional-cert/35Q1E110BC6U)  | Microsoft on Coursera, Sept 2024
 
 
 ## Find Me
