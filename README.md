@@ -36,7 +36,6 @@
 
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
-[![ Coursera      ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Coursera&logo=Coursera)](https://www.coursera.org/learner/aaronamran)
 [![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
