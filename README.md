@@ -4,7 +4,7 @@
 
 ## Hi, Aaron here!
 
-- ⚙️ Focusing on Penetration Testing and Ethical Hacking
+- ⚙️ Focusing on Ethical Hacking, Penetration Testing and Bug Bounty
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in programming
