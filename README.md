@@ -4,7 +4,8 @@
 
 ## Hi, Aaron here!
 
-- ⚙️ Focusing on Ethical Hacking, Penetration Testing and Bug Bounty
+- ⚙️ Currently focusing on Sysadmin, Networking and Cloud
+- 📌 End goal: Ethical Hacking, Malware Analysis and Vulnerability Research
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in programming
