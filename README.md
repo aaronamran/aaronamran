@@ -8,7 +8,7 @@
 - 📌 End goal: Ethical Hacking, Malware Analysis and Vulnerability Research
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
-- 💻 Background in programming
+- 💻 Background in Programming and Electronics
 - 💬 3 Languages: English, Malay, German
 
 ## Technologies
