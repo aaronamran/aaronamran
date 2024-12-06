@@ -5,7 +5,7 @@
 ## Hi, Aaron here!
 
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
-- 📌 End goal: Ethical Hacking, Malware Analysis and Vulnerability Research
+- 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in Programming and Electronics
