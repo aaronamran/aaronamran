@@ -27,7 +27,7 @@
 <br>
 
 ## Badges
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" />
 
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
