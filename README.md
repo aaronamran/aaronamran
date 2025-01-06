@@ -3,7 +3,7 @@
 </a>
 
 ## Hi, Aaron here!
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" /><br/>
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
 - 🌐 Top 5% worldwide in TryHackMe
