@@ -3,7 +3,7 @@
 </a>
 
 ## Hi, Aaron here!
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" />
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
 - 🌐 Top 5% worldwide in TryHackMe
@@ -26,8 +26,6 @@
 `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]` `[Jupyter Notebook]`
 <br>
 
-## Badges
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" />
 
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamranba)
