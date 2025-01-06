@@ -3,13 +3,14 @@
 </a>
 
 ## Hi, Aaron here!
-<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" /><br/>
+
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
 - 🌐 Top 5% worldwide in TryHackMe
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in Programming and Electronics
 - 💬 3 Languages: English, Malay, German
+<img src="https://tryhackme-badges.s3.amazonaws.com/aaronamranba.png" alt="aaronamranba TryHackMe Badge" /><br/>
 
 ## Technologies
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
