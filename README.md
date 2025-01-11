@@ -6,7 +6,7 @@
 
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
-- 🌐 [Top 4% worldwide in TryHackMe](https://tryhackme.com/r/p/aaronamran)
+- 🌐 [Top 3% worldwide in TryHackMe](https://tryhackme.com/r/p/aaronamran)
 - ⚔️ Regularly listens to Darknet Diaries
 - 💻 Background in Programming and Electronics
 - 💬 3 Languages: English, Malay, German
