@@ -8,7 +8,7 @@
 </td>
 <td border: none;>
 
-```bash
+```javascript
 aaronamran@github
 -----------------
 OS: ... Kali Linux, Windows, Ubuntu
