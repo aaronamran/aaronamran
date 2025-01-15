@@ -1,9 +1,11 @@
+## Hi, Aaron here!
+
+---
+
 <a href="https://github.com/aaronamran">
   <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
-</a> 
+</a>
 
-
-## Hi, Aaron here!
 
 - ⚙️ Currently focusing on Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
@@ -12,6 +14,7 @@
 - 💻 Background in Programming and Electronics
 - 💬 3 Languages: English, Malay, German
 
+---
 
 <br>
 
