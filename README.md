@@ -1,34 +1,6 @@
-<p>
-<table>
-<tr>
-<td border: none;>
-  <a href="https://github.com/aaronamran">
+<a href="https://github.com/aaronamran">
   <img src="images/bnwgif.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
-</a>
-</td>
-<td border: none;>
-
-```console
-aaronamran@github
------------------
-OS: ........................................................ Kali Linux, Windows, Ubuntu
-Host: ................................................... Mossè Cyber Security Institute
-Kernel: ......................... Security Researcher, ICT Technician, Software Engineer
-Cybersecurity.Tools: ... Nmap, OpenVAS, Wireshark, BurpSuite, Metasploit, Mimikatz, YARA
-Languages.Programming: ....................... Python, JavaScript, PHP, Java, C/C++, Lua
-Languages.Computer: ............................................... HTML, CSS, XML, JSON
-IT: ............................. BASH, PowerShell, Docker, Azure, AWS, Jupyter Notebook
-Email.Work: ..................................................... aaronamranba@gmail.com
-LinkedIn: ................................................................... aaronamran
-
-
-
-```
-
-</td>
-</tr>
-</table>
-</p>
+</a> 
 
 
 ## Hi, Aaron here!
@@ -54,13 +26,5 @@ LinkedIn: ................................................................... aa
   <a href="https://www.linkedin.com/in/aaronamran/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
 <br>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/>
-</td>
-</tr>
-</table>
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/>
