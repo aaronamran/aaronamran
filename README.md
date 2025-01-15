@@ -12,7 +12,7 @@
 - 💻 Background in Programming and Electronics
 - 💬 3 Languages: English, Malay, German
 
-## Technologies
+
 | Domain           |  Technologies                                                                                              |
 |------------------|------------------------------------------------------------------------------------------------------------|
 | Cybersecurity    | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]`                      |
