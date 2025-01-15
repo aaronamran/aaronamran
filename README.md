@@ -3,15 +3,15 @@
 ---
 
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" size=75%>
 </a>
 
 
-- ⚙️ Currently focusing on Sysadmin, Networking and Cloud
+- ⚙️ Currently focus: Sysadmin, Networking and Cloud
 - 📌 End goal: Ethical Hacking, Malware Analysis, Vulnerability Research and Cloud Security
 - 🌐 [Top 2% worldwide in TryHackMe](https://tryhackme.com/r/p/aaronamran)
 - ⚔️ Regularly listens to [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)
-- 💻 Background in Programming and Electronics
+- 💻 Background: Software Development, Electronics and Mathematics
 - 💬 3 Languages: English, Malay, German
 
 ---
