@@ -8,14 +8,21 @@
 </td>
 <td border: none;>
 
-```console
+```python
 aaronamran@github
 -----------------
-OS: Kali Linux, Windows, Ubuntu
-Host: Mossè Cyber Security Institute
-Kernel: Security Researcher
-IDE: VSCode
+OS: ... Kali Linux, Windows, Ubuntu
+Host: ... Mossè Cyber Security Institute
+Kernel: ... Security Researcher
+IDE: ... VSCode
 
+Cybersecurity.Tools: ... Nmap, OpenVAS, Wireshark, BurpSuite, Metasploit, Mimikatz, YARA
+Languages.Programming: ... Python, JavaScript, PHP, Java, C/C++, Lua
+Languages.Computer: ... HTML, CSS, JSON
+IT: ... BASH, PowerShell, Docker, Azure, AWS, Jupyter Notebook
+
+Email.Work: ... aaronamranba@gmail.com
+LinkedIn: ... aaronamran
 
 
 
