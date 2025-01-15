@@ -25,8 +25,9 @@
 ```
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 100px;">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=city_lights&show_icons=true&count_private=true" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamran&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=false&theme=city_lights" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; padding: 20px;">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=city_lights&show_icons=true&count_private=true" style="margin-right: 50px;" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamran&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=false&theme=city_lights" style="margin-left: 50px;" />
 </div>
+
 
