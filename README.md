@@ -29,10 +29,10 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/aaronamran/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronamran&theme=transparent&hide_border=false&langs_count=10"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronamran&theme=synthwave&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
