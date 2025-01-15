@@ -20,8 +20,6 @@
 | OS               | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
 | Data             | `[Jupyter Notebook]`                                                                                       |
 
-<br>
-
 
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamran)
