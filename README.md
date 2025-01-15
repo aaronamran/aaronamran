@@ -20,11 +20,21 @@
 | OS               | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
 | Data             | `[Jupyter Notebook]`                                                                                       |
 
-## Find Me
 <div align="center">
   <a href="mailto:aaronamranba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/aaronamran/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
-
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/aaronamran/github-readme-stats)
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronamran&theme=transparent&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
