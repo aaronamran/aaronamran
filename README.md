@@ -1,5 +1,5 @@
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwgif.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
 </a> 
 
 
@@ -13,6 +13,7 @@
 - 💬 3 Languages: English, Malay, German
 
 
+<br>
 | Domain           |  Technologies                                                                                              |
 |------------------|------------------------------------------------------------------------------------------------------------|
 | Cybersecurity    | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]`                      |
