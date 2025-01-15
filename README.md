@@ -1,15 +1,25 @@
 <p>
 <table>
 <tr>
-<td>
+<td border: none;>
   <a href="https://github.com/aaronamran">
   <img src="images/bnwgif.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
 </a>
 </td>
-<td>
-  ```python
-  h
-  ```
+<td border: none;>
+
+```python
+aaronamran@github
+-----------------
+OS: Kali Linux, Windows, Ubuntu
+Host: Mossè Cyber Security Institute
+Kernel: Security Researcher
+IDE: VSCode
+
+
+
+
+```
 
 </td>
 </tr>
