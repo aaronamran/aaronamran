@@ -32,3 +32,29 @@
 <br>
 
 <img height="175px" align="center" src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=city_lights&show_icons=true&count_private=true"/><img height="175px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamran&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=false&theme=city_lights" />
+
+<br>
+
+..............                                     kali@kali 
+            ..,;:ccc,.                             --------- 
+          ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64 
+.....''''..........,:ld;                           Host: VirtualBox 1.2 
+           .';;;:::;,,.x,                          Kernel: 6.8.11-amd64 
+      ..'''.            0Xxoc:,.  ...              Uptime: 31 secs 
+  ....                ,ONkc;,;cokOdc',.            Packages: 3300 (dpkg) 
+ .                   OMo           ':ddo.          Shell: zsh 5.9 
+                    dMc               :OO;         Resolution: 1920x945 
+                    0M.                 .:o.       DE: Xfce 4.18 
+                    ;Wd                            WM: Xfwm4 
+                     ;XO,                          WM Theme: Kali-Dark 
+                       ,d0Odlc;,..                 Theme: Kali-Dark [GTK2], adw-gtk3-dark [GTK3] 
+                           ..',;:cdOOd::,.         Icons: Flat-Remix-Blue-Dark [GTK2/3] 
+                                    .:d;.':;.      Terminal: qterminal 
+                                       'd,  .'     Terminal Font: Hack 11 
+                                         ;l   ..   CPU: 11th Gen Intel i5-11400H (4) @ 2.688GHz 
+                                          .o       GPU: 00:02.0 VMware SVGA II Adapter 
+                                            c      Memory: 708MiB / 7948MiB 
+                                            .'
+                                             .                             
+                                                                           
+
