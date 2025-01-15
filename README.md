@@ -20,13 +20,10 @@
 | OS               | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
 | Data             | `[Jupyter Notebook]`                                                                                       |
 
-<p></p>
-<br>
-`[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]`
-<br>
-
 ## Find Me
 [![ TryHackMe     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=TryHackMe&logo=TryHackMe)](https://tryhackme.com/p/aaronamran)
 [![ GitHub        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=GitHub&logo=GitHub)](https://github.com/aaronamran)
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaronamran.aaronamran)
