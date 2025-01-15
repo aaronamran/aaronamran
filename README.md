@@ -31,4 +31,4 @@
 </div>
 <br>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamran&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=false&theme=synthwave" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/><img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronamran&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=false&theme=synthwave" />
