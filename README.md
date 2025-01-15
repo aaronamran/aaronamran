@@ -26,4 +26,4 @@
 [![ LinkedIn     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=LinkedIn&logo=LinkedIn)](https://www.linkedin.com/in/aaronamran/)
 [![ Gmail        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=&message=Gmail&logo=Gmail)](mailto:aaronamranba@gmail.com)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaronamran.aaronamran)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronamran)](https://github.com/aaronamran/github-readme-stats)
