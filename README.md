@@ -28,11 +28,8 @@
 <p align="center">
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaronamran&theme=tokyonight&show_icons=true&count_private=true"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaronamran&theme=synthwave&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
