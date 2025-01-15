@@ -26,9 +26,6 @@ IDE: VSCode
 </table>
 </p>
 
-<a href="https://github.com/aaronamran">
-  <img src="images/bnwgif.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; margin-bottom: 50px; z-index: 10;">
-</a>
 
 ## Hi, Aaron here!
 
