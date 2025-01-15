@@ -8,7 +8,7 @@
 </td>
 <td border: none;>
 
-```python
+```console
 aaronamran@github
 -----------------
 OS: Kali Linux, Windows, Ubuntu
