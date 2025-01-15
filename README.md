@@ -23,6 +23,8 @@
 [![ Code: C++     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=C++&logo=C++)]()
 [![ Code: Lua     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Lua&logo=Lua)]()
 <br><p></p>
+| Domain        |  Technologies                                                                                              |
+|---------------|------------------------------------------------------------------------------------------------------------|
 | Cybersecurity | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]` `[Jupyter Notebook]` |
 <br>
 
