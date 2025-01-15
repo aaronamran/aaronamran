@@ -12,20 +12,14 @@
 - 💬 3 Languages: English, Malay, German
 
 ## Technologies
-[![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
-[![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
-[![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
-[![ Code: PowerShell     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=PowerShell&logo=powershell)]()
-[![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
-[![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
-[![ Code: Java           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Java&logo=java)]()
-[![ Code: PHP     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=PHP&logo=php)]()
-[![ Code: C++     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=C++&logo=C++)]()
-[![ Code: Lua     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Lua&logo=Lua)]()
-<br><p></p>
-| Domain        |  Technologies                                                                                              |
-|---------------|------------------------------------------------------------------------------------------------------------|
-| Cybersecurity | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]` `[Jupyter Notebook]` |
+| Domain           |  Technologies                                                                                              |
+|------------------|------------------------------------------------------------------------------------------------------------|
+| Cybersecurity    | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]`                      |
+| Coding/Scripting | `[Python]` `[HTML]` `[CSS]` `[JavaScript]` `[PHP]` `[Java]` `[C/C++]` `[Lua]` `[PowerShell]` `[BASH]`      |
+| IT               | `[Docker]` `[Azure]` `[AWS]`                                                                               |
+| OS               | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
+| Data             | `[Jupyter Notebook]`                                                                                       |
+
 <br>
 
 
