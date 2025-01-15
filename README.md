@@ -3,7 +3,7 @@
 ---
 
 <a href="https://github.com/aaronamran">
-  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; height="250" width="300">
+  <img src="images/bnwimage.gif" alt="AARONAMRAN" align="right" style="margin-left: 50px; height="220" width="280">
 </a>
 
 
