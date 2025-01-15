@@ -15,13 +15,13 @@
 
 <br>
 
-| Domain           |  Technologies                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------|
-| Cybersecurity    | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]`                      |
-| Coding/Scripting | `[Python]` `[HTML]` `[CSS]` `[JavaScript]` `[PHP]` `[Java]` `[C/C++]` `[Lua]` `[PowerShell]` `[BASH]`      |
-| IT               | `[Docker]` `[Azure]` `[AWS]`                                                                               |
-| OS               | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
-| Data             | `[Jupyter Notebook]`                                                                                       |
+| Domain             |  Technologies                                                                                              |
+|--------------------|------------------------------------------------------------------------------------------------------------|
+| Cybersecurity      | `[Nmap]` `[OpenVAS]` `[Wireshark]` `[BurpSuite]` `[Metasploit]` `[Mimikatz]` `[YARA]`                      |
+| Software/Scripting | `[Python]` `[HTML]` `[CSS]` `[JavaScript]` `[PHP]` `[Java]` `[C/C++]` `[Lua]` `[PowerShell]` `[BASH]`      |
+| IT                 | `[Docker]` `[Azure]` `[AWS]`                                                                               |
+| OS                 | `[Kali Linux]` `[Windows 7, 8, 10, 11]` `[Ubuntu]`                                                         |
+| Data               | `[Jupyter Notebook]`                                                                                       |
 
 <div align="center">
   <a href="mailto:aaronamranba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
