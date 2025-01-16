@@ -2,15 +2,15 @@
 ```console
 ..............                                     aaronamran@github 
             ..,;:ccc,.                             --------- 
-          ......''';lxO.                           OS: Kali Linux, Windows, Android
+          ......''';lxO.                           OS: Kali Linux, Windows, Ubuntu, Android
 .....''''..........,:ld;                           Host: Mossé Cybersecurity Insitute 
            .';;;:::;,,.x,                          Kernel: Software Engineer, ICT Technician 
       ..'''.            0Xxoc:,.  ...              Uptime: 28 years 
-  ....                ,ONkc;,;cokOdc',.            Languages: Python, JavaScript, PHP, C++
+  ....                ,ONkc;,;cokOdc',.            Programming Languages: Python, JavaScript, PHP, C++, Java
  .                   OMo           ':ddo.          Offensive Security: Metasploit, BurpSuite, Nmap, Mimikatz
                     dMc               :OO;         Defensive Security: Wireshark, YARA, VirusTotal
                     0M.                 .:o.       Scripting: BASH, PowerShell
-                    ;Wd                            IT: Docker, Azure, AWS
+                    ;Wd                            IT Infrastructure: Docker, Azure, AWS
                      ;XO,                          Analytics: Jupyter Notebook
                        ,d0Odlc;,..                 WM: Xfwm4 
                            ..',;:cdOOd::,.         WM Theme: Kali-Dark 
