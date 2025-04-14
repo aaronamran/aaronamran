@@ -20,7 +20,7 @@
                                           .o       Terminal Font: Hack 11 
                                             c      CPU: 11th Gen Intel i5-11400H (4) @ 2.688GHz 
                                             .'     LinkedIn: linkedin.com/in/aaronamran
-                                             .                             
+                                             .     Certifications: Security+                        
                                                                            
 ```
 
