@@ -10,7 +10,7 @@
  .                   OMo           ':ddo.          Offensive Security: Metasploit, BurpSuite, Nmap, Mimikatz
                     dMc               :OO;         Defensive Security: Wireshark, YARA, VirusTotal
                     0M.                 .:o.       Scripting: BASH, PowerShell
-                    ;Wd                            IT Infrastructure: Docker, Azure, AWS
+                    ;Wd                            IT Infrastructure: AWS, VMWare
                      ;XO,                          Analytics: Jupyter Notebook
                        ,d0Odlc;,..                 WM: Xfwm4 
                            ..',;:cdOOd::,.         WM Theme: Kali-Dark 
