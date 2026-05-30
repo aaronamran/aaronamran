@@ -4,13 +4,13 @@
             ..,;:ccc,.                             --------- 
           ......''';lxO.                           OS: Kali Linux, Red Hat, Windows, Ubuntu, Android
 .....''''..........,:ld;                           Host: Mossé Cybersecurity Insitute 
-           .';;;:::;,,.x,                          Kernel: Ethical Hacker, CTF Player
+           .';;;:::;,,.x,                          Kernel: Ethical Hacker, Vulnerability Researcher
       ..'''.            0Xxoc:,.  ...              Uptime: 29 years 
-  ....                ,ONkc;,;cokOdc',.            Programming Languages: Python, JavaScript, PHP, C++, Java
+  ....                ,ONkc;,;cokOdc',.            Programming Languages: JavaScript, Python
  .                   OMo           ':ddo.          Offensive Security: Metasploit, BurpSuite, Nmap, Mimikatz
                     dMc               :OO;         Defensive Security: Wireshark, YARA, VirusTotal
                     0M.                 .:o.       Scripting: BASH, PowerShell
-                    ;Wd                            IT Infrastructure: AWS, VMWare
+                    ;Wd                            IT Infrastructure: AWS, Azure
                      ;XO,                          Analytics: Jupyter Notebook
                        ,d0Odlc;,..                 WM: Xfwm4 
                            ..',;:cdOOd::,.         WM Theme: Kali-Dark 
